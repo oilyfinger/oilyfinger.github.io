@@ -60,7 +60,7 @@ plugins:
 author:
   name     : "Jaeyoung Choi<br/><small>oilyfinger</small>"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Junior developer.<br/>Soft-boiled programmer.<br/>Not the best but for the better."
+  bio      : "Junior developer.<br/>Soft-boiled programmer.<br/>Not for the best but for the better."
   location : "Seongnam, KOR"
   links:
 #   - label: "Website"
